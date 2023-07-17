@@ -1,7 +1,7 @@
 # upgrades and updates 
 
-pkg update y
+pkg update -y
 
-pkg upgrade y
+pkg upgrade -y
 
 
