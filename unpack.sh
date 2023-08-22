@@ -21,3 +21,11 @@ echo "man already installed"
 #installing 'man'
 else pkg install man
 fi
+
+if (which kotlinc)
+then
+echo "kotlinc already installed"
+
+#installing kotlinc
+else pkg install kotlinc
+fi
