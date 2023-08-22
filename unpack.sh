@@ -27,5 +27,5 @@ then
 echo "kotlinc already installed"
 
 #installing kotlinc
-else pkg install kotlinc
+else pkg install kotlin
 fi
