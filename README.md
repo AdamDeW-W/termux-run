@@ -1,1 +1,1 @@
-# just playing
+Start by running pkg install git
